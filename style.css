@@ -2,7 +2,7 @@ header{
   text-align: center;
 }
   
-.body-element{
+.body-align{
   display: flex;
   flex-direction: column;
   justify-content: center;
