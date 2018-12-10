@@ -1,6 +1,6 @@
 wabens.github.io
 <head>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel = 'styesheet" href = "wabens.github.io/stylesheet" type = "text/css">
 </head>
 <html>
   <body>
@@ -10,12 +10,12 @@ wabens.github.io
       <p>612-749-7553</p>
     </section>
    
-   <section>
+   <section calss = "education">
       <h3>Education</h3>
-      <div class="row">
-        <h4 class = "col-sm-6">Macalester College</h4>
-        <p class = "col-sm-2">2012-2016</p>
-      </div>
+      <span>
+        <h4>Macalester College</h4>
+        <p>2012-2016</p>
+      </span>
    </section>
   </body>
 </html>
