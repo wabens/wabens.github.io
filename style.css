@@ -1,12 +1,9 @@
-html, body {
-  display: flex;
-  flex-direction: column;
-}
-
 header{
   text-align: center;
 }
   
 .body-element{
-  border-top: 2 px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
