@@ -1,4 +1,4 @@
 table, th, td {
-  border: 0;
+  border: 1px solid black;
   bacground color: white;
 }
