@@ -13,7 +13,7 @@
       <p>B.A in Biology<br>Macalester College, 2012-2016</p>
    </section>
    <section class = "body element">
-      <h3> Work Experience</h3>
+      <h3> Work Experience----------</h3>
       <table style="width:100%">
          <tr>
            <td>Lead Inoculation Technician, Mississippi Mushroom (Minneapolis, MN)</td>
