@@ -13,7 +13,7 @@ wabens.github.io
    <section>
       <h3>Education</h3>
       <div class="row">
-        <h4 class = "col-sm-8">Macalester College</h4>
+        <h4 class = "col-sm-6">Macalester College</h4>
         <p class = "col-sm-2">2012-2016</p>
       </div>
    </section>
