@@ -10,7 +10,7 @@
       <p>612-749-7553</p>
     </section>
    
-   <section class = "education">
+   <section class = "body element">
       <h3>Education</h3>
         <p>B.A in Biology</p>
         <p>Macalester College, 2012-2016</p>
