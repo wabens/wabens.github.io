@@ -1,4 +1,4 @@
-wabens.github.io
+
 <head>
 <link rel = 'styesheet" href = "wabens.github.io/stylesheet" type = "text/css">
 </head>
@@ -10,12 +10,10 @@ wabens.github.io
       <p>612-749-7553</p>
     </section>
    
-   <section calss = "education">
+   <section class = "education">
       <h3>Education</h3>
-      <span>
-        <h4>Macalester College</h4>
-        <p>2012-2016</p>
-      </span>
+        <p>B.A in Biology</p>
+        <p>Macalester College, 2012-2016</p>
    </section>
   </body>
 </html>
