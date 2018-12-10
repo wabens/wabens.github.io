@@ -14,7 +14,7 @@
    </section>
    <section class = "body element">
       <h3> Work Experience</h3>
-      <table>
+      <table style="width:100%">
          <tr>
            <td>Lead Inoculation Technician, Mississippi Mushroom (Minneapolis, MN)</td>
             <td>Apr 2017 - current</td>
