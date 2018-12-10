@@ -1,6 +1,15 @@
-h3 {
-color: red;
+body{
+  margin: 20px
 }
-.section{
-  color: red;
+
+h1{
+  text-align: center;
+}
+
+.contact{
+  text-align: center;
+}
+  
+.body element{
+  border-top: 2 px solid black;
 }
