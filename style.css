@@ -1,9 +1,13 @@
-header{
+header {
   text-align: center;
 }
   
-.body-align{
+.body-align {
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+
+.body-element {
+  background-color: red;
 }
