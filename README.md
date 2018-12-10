@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel = "styesheet" href = "wabens.github.io/stylesheet" type = "text/css">
+<link rel="styesheet" href="wabens.github.io/stylesheet" type="text/css">
 </head>
   <body>
     <section>
