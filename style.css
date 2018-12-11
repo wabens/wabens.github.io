@@ -17,4 +17,6 @@ h3{
 
 .body-element {
   border-top: 2px solid lightgrey;
+  background-color: red;
+  margin: 50px;
 }
