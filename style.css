@@ -3,14 +3,14 @@ header {
 }
   
 .body-align {
+  margin: auto;
   display: flex;
   flex-direction: column;
   width: 800px;
-  bacground-color: blue;
+  background-color: blue;
   
 }
 
 .body-element {
   background-color: red;
-  margin: 20px;
 }
