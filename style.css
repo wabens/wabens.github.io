@@ -7,11 +7,10 @@ header {
   display: flex;
   flex-direction: column;
   width: 800px;
-  background-color: blue;
   align-content: space-around;
   
 }
 
 .body-element {
-  
+  border-top: 2px solid lightgrey;
 }
